@@ -1,0 +1,186 @@
+[29-Jan-2025 01:52:22 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[01-Feb-2025 00:49:31 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[01-Feb-2025 00:49:31 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[01-Feb-2025 20:05:41 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[01-Feb-2025 20:05:53 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[01-Feb-2025 20:06:52 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[01-Feb-2025 20:07:21 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[01-Feb-2025 20:07:29 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[05-Feb-2025 23:23:27 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[05-Feb-2025 23:23:39 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 01:15:27 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 01:16:08 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 01:16:43 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 01:17:08 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 01:17:08 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 01:20:21 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 01:20:26 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 01:31:21 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "activarUsuario" on null in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/at5kqln2opei/public_html/inventario/ajax/usuarios.ajax.php on line 111
+[06-Feb-2025 21:24:06 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:24:13 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:24:18 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:24:27 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:25:01 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:25:05 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:26:20 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:27:45 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:27:50 UTC] Ruta de imagen: vistas/img/productos/default/anonymous.png
+[06-Feb-2025 21:28:01 UTC] Ruta de imagen: vistas/img/productos/219/353.jpg
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:28:05 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
+[28-Feb-2025 20:29:10 UTC] PHP Warning:  Undefined array key "ubicacion" in /home/at5kqln2opei/public_html/inventario_final/ajax/datatable-productos.ajax.php on line 89
